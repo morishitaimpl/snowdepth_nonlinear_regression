@@ -5,4 +5,4 @@
 
 実行する際には引数に"data_2023_2024.csv"を指定してください
 
-実行コマンド python weather_predict_regression.py snowdepth_r060410.csv
+実行コマンド python weather_predict_regression.py data_2023_2024.csv
